@@ -1,0 +1,4 @@
+sample,surface,reference_m,disparity_px
+f1,far,7.2,9.7
+f2,far,7.2,10.3
+f3,far,7.2,NaN

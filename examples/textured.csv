@@ -1,0 +1,4 @@
+sample,surface,reference_m,disparity_px
+t1,textured,1.0,72
+t2,textured,2.0,36.2
+t3,textured,2.0,35.8

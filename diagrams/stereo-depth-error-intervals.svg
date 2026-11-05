@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="552" viewBox="0 0 840 552" role="img"><title>Exact disparity error intervals</title><desc>The 7.2 metre case has a much wider and more asymmetric interval than the 2 metre case.</desc><g font-family="DejaVu Sans,sans-serif"><rect x="0" y="0" width="840" height="552" rx="22" fill="#eff7f7"/><text x="44" y="62" font-size="38" font-weight="700" fill="#102f3c" text-anchor="start">Same pixel error, different depth</text>
+<text x="44" y="108" font-size="29" font-weight="400" fill="#365867" text-anchor="start">Disparity bound: ±0.25 px</text>
+<path d="M126.0,146 L126.0,420" stroke="#c8dadd" stroke-width="2"/>
+<text x="126.0" y="463" font-size="27" font-weight="400" fill="#365867" text-anchor="middle">-200</text>
+<path d="M273.0,146 L273.0,420" stroke="#c8dadd" stroke-width="2"/>
+<text x="273.0" y="463" font-size="27" font-weight="400" fill="#365867" text-anchor="middle">-100</text>
+<path d="M420.0,146 L420.0,420" stroke="#c8dadd" stroke-width="3"/>
+<text x="420.0" y="463" font-size="27" font-weight="400" fill="#365867" text-anchor="middle">0</text>
+<path d="M567.0,146 L567.0,420" stroke="#c8dadd" stroke-width="2"/>
+<text x="567.0" y="463" font-size="27" font-weight="400" fill="#365867" text-anchor="middle">100</text>
+<path d="M714.0,146 L714.0,420" stroke="#c8dadd" stroke-width="2"/>
+<text x="714.0" y="463" font-size="27" font-weight="400" fill="#365867" text-anchor="middle">200</text>
+<text x="44" y="196" font-size="30" font-weight="700" fill="#102f3c" text-anchor="start">2.0 m depth   ·   36 px</text>
+<path d="M399.7241379310344,244 L440.5594405594408,244" stroke="#117777" stroke-width="10"/>
+<path d="M399.7241379310344,232 L399.7241379310344,256" stroke="#117777" stroke-width="4"/>
+<path d="M440.5594405594408,232 L440.5594405594408,256" stroke="#117777" stroke-width="4"/>
+<circle cx="420" cy="244" r="5" fill="#102f3c"/>
+<text x="44" y="286" font-size="28" font-weight="700" fill="#117777" text-anchor="start">-14 to +14 mm</text>
+<text x="44" y="324" font-size="30" font-weight="700" fill="#102f3c" text-anchor="start">7.2 m depth   ·   10 px</text>
+<path d="M161.85365853658516,372 L691.3846153846157,372" stroke="#a6492a" stroke-width="10"/>
+<path d="M161.85365853658516,360 L161.85365853658516,384" stroke="#a6492a" stroke-width="4"/>
+<path d="M691.3846153846157,360 L691.3846153846157,384" stroke="#a6492a" stroke-width="4"/>
+<circle cx="420" cy="372" r="5" fill="#102f3c"/>
+<text x="44" y="414" font-size="28" font-weight="700" fill="#a6492a" text-anchor="start">-176 to +185 mm</text>
+<text x="420" y="510" font-size="29" font-weight="400" fill="#102f3c" text-anchor="middle">Depth offset from nominal (mm)</text></g></svg>
