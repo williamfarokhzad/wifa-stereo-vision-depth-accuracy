@@ -2,7 +2,7 @@
 
 Audit saved stereo disparities against independent depth references. The script reports valid returns, signed bias, mean absolute error, worst error and agreement with a finite disparity error interval for each surface group. The examples use invented data. No camera or robot is required.
 
-The full illustrated lesson will be linked here after the website is verified.
+[Full lesson at WIFA Robotics](https://wifarobotics.com/learn/stereo-vision-depth-accuracy/)
 
 ## Get started
 
